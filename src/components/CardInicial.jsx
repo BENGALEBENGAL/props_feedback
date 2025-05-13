@@ -1,7 +1,7 @@
 import iconStar from "../assets/icon-star.svg"
 import { InputButton } from "./InputButton"
 
-export function Card ({ nota, setNota, setSubmited }){
+export function CardInicial ({ nota, setNota, setSubmited }){
     
 
     function handleSubmit(){
